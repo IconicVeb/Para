@@ -15,4 +15,5 @@ body {
 
 p {
     font-size: 25px;
+    text-decoration: underline solid blue;
 }
