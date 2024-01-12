@@ -1,17 +1,3 @@
-@import url('<https://fonts.googleapis.com/css2?family=Roboto:wght@500;700;900&display=swap>');
-
-
-p {
-    color: blue;
-    font-size: 25px;
-}
-
-.brown {
-    color: brown;
-    font-size: 30px;
-}
-
-#greencolor {
-    color: green;
-    font-size: 25px;
+body {
+    font-family: 'Playfair Display', serif;
 }
