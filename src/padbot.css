@@ -1,0 +1,19 @@
+.top {
+    background-color: blueviolet;
+    margin-top: 25px;
+    margin-bottom: 50px;;
+}
+
+.bottom {
+    background-color: purple;
+
+}
+
+.external {
+    background-color: bisque;
+    padding: 10px;
+}
+
+.inside {
+    background-color: coral ;
+}
