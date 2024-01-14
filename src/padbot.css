@@ -1,11 +1,12 @@
 .top {
     background-color: blueviolet;
     margin-top: 25px;
-    margin-bottom: 50px;;
+    height: 50px;
 }
 
 .bottom {
     background-color: purple;
+    height: 25px;
 
 }
 
@@ -16,4 +17,16 @@
 
 .inside {
     background-color: coral ;
+    height: 25px;
+}
+
+.zacent {
+    background-color: blanchedalmond;
+}
+ 
+.center {
+    width: 400px;
+    height: 40px;
+    margin: auto;
+    background-color: salmon;
 }
