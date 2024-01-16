@@ -1,0 +1,27 @@
+body {
+    background-color: gainsboro;
+}
+
+.Text {
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    letter-spacing: 0em;
+    text-align: left;
+    
+}
+
+
+.spisok {
+    width: 410px;
+    height: 306px;
+    top: -403px;
+    left: -667px;
+    padding: 16px;
+    gap: 16px;
+    background: #FFFFFF;  
+}
+
+
+
+
