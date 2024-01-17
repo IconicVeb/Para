@@ -13,14 +13,81 @@ body {
 
 
 .spisok {
-    width: 410px;
+    width: 575px;
     height: 306px;
     top: -403px;
     left: -667px;
     padding: 16px;
     gap: 16px;
     background: #FFFFFF;  
+    display: flex;
 }
+
+.block1 {
+    background: #A6A6A6;
+    width: 181px;
+    height: 221px;
+    border-radius: 24px;
+    padding: 16px;
+    gap: 16px;
+    border: 1px solid;
+}
+
+.divimg1 {
+    width: 149px;
+    height: 138px;
+   border-radius: 16px;
+   margin: 10px auto 0px auto;
+   display: block;
+   
+   
+}
+
+.btn {
+    width: 149px;
+    height: 35px;
+    border-radius: 10px;
+    padding: 10px, 54px, 10px, 54px;
+    gap: 10px;
+    background: #555555;
+    margin: 35px auto 0px auto;
+    display: block;
+
+}
+
+.divimg3 {
+    width: 149px;
+    height: 138px;
+   border-radius: 16px;
+   margin: 10px auto 0px auto;
+   display: block;
+   
+}
+
+.btn1 {
+    width: 149px;
+    height: 35px;
+    border-radius: 10px;
+    padding: 10px, 54px, 10px, 54px;
+    gap: 10px;
+    background: #555555;
+    margin: 35px auto 0px auto;
+    display: block;
+}
+
+.block2 {
+    background: #A6A6A6;
+    width: 181px;
+    height: 221px;
+    border-radius: 24px;
+    padding: 16px;
+    gap: 16px;
+    display: inline-block;
+    border: 1px solid;
+    margin: 2px;    
+}
+
+
 
 
 
