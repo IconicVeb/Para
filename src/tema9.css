@@ -1,3 +1,37 @@
-h1 {
+body {
+    font-family: sans-serif;
+    box-sizing: border-box;
+  }
+  
+  .circle {
+    width: 300px;
+    height: 300px;
+    background-color: salmon;
+  }
+  
+  .box1 {
+    height: 70px;
+    width: 70px;
+    background-color: skyblue;
     position: relative;
-}
+    left: 20px;
+    top: 225px;
+
+  }
+  .box2 {
+    height: 70px;
+    width: 70px;
+    background-color: skyblue;
+    position: relative;
+    left: 210px;
+    top: 155px;
+  }
+  .box3 {
+    height: 150px;
+    width: 120px;
+    background-color: wheat;
+    position: relative;
+    left: 90px;
+    bottom: 50px;
+  }
+  
