@@ -34,4 +34,17 @@ body {
     left: 90px;
     bottom: 50px;
   }
+
+  .triangle {
+    width: 0;
+    height: 5;
+    border-left: 100px solid transparent;
+    border-right: 100px solid transparent;
+    border-bottom: 200px solid #f95959;
+    position: relative;
+    left: 50px;
+    bottom: 401px;
+}
+
+
   
